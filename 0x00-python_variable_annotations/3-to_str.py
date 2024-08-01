@@ -3,6 +3,7 @@
 Module that takes float as input and converts its return value to a string
 """
 
+
 def to_str(n: float) -> str:
     """
     Convert a float number to its string representation.
